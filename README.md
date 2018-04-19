@@ -1,2 +1,0 @@
-# classicbitcoin
-ClassicBitcoin Wallet Downloads
