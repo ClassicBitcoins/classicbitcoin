@@ -4,13 +4,13 @@ Release for Windows, wallets, Mac and Linux desktop wallets will be available so
 
 Please note that these releases are alpha releases and should be treated as such. Always test with small amounts.
 
-[CBTC daemon and command-line app] (https://github.com/ClassicBitcoins/cbitcoin/releases)
+[CBTC daemon and command-line app](https://github.com/ClassicBitcoins/cbitcoin/releases)
 
-[Guide to setup CBTCWallet.jar can be found here!] (https://github.com/ClassicBitcoins/cbtc-wallet)
+[Guide to setup CBTCWallet.jar can be found here!](https://github.com/ClassicBitcoins/cbtc-wallet)
 
-*Windows remark: On first-run, an error is expected.\n
+*Windows remark: On first-run, an error is expected.
 after downloading the cryptographic keys, close and run the wallet again; it should work.
-Join CBTC and Become a full node!)
+Join CBTC and Become a full node!)*
 
 Open port 2050 on your internet router. This will allow you to become a full node and thus, support the ClassicBitcoin network.
 CBTC Wallet - v1.0.9.50
