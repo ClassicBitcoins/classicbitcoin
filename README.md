@@ -8,9 +8,7 @@ Please note that these releases are alpha releases and should be treated as such
 
 [Guide to setup CBTCWallet.jar can be found here!](https://github.com/ClassicBitcoins/cbtc-wallet)
 
-*Windows remark: On first-run, an error is expected.
-after downloading the cryptographic keys, close and run the wallet again; it should work.
-Join CBTC and Become a full node!)*
+    *Windows remark: On first-run, an error is expected. after downloading the cryptographic keys, close and run the wallet again; it should work. Join CBTC and Become a full node!)*
 
 Open port 2050 on your internet router. This will allow you to become a full node and thus, support the ClassicBitcoin network.
 CBTC Wallet - v1.0.9.50
@@ -24,9 +22,9 @@ Keep your private keys safe! Always back them up right away!
 
 Your wallet file is at -
 
-Windows - %APPDATA%\CBTC\wallet.dat
-Mac - ~/Library/Application Support/CBTC/wallet.dat
-Linux - ~/.cbtc/wallet.dat
+1. Windows - %APPDATA%\CBTC\wallet.dat
+1. Mac - ~/Library/Application Support/CBTC/wallet.dat
+1. Linux - ~/.cbtc/wallet.dat
 
 If you make an encrypted wallet.dat, don't lose or share the password!
 
